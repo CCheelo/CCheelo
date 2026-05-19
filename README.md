@@ -38,9 +38,7 @@
 </td>
 <td valign="top" width="45%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" width="60%" align="center" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CCheelo&hide_border=true&title_color=c2410c&text_color=555" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 </tr>
